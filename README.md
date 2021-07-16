@@ -14,6 +14,8 @@
 
 這邊主要分享所有功能的 demo，至於我是怎麼實作的，可以看我<a target="_blank" href="https://kanido386.github.io" title="卡尼多隨筆">部落格</a>裡的「<a target="_blank" href="https://kanido386.github.io/2021/07/baymax-with-us/">喜歡《大英雄天團》杯麵？何不自己做一個！</a>」這一篇文。
 
+---
+
 ### 指定聽歌
 在 LINE 裡面用 YouTube 輕鬆聽你想聽的歌曲。
 ```
@@ -24,7 +26,9 @@
 <br>
 <img src="demo/1.gif" width="300">
 </details>
-<p style="color: #cdcdcd">↑ 點按三角形可以展開哦～</p>
+<mark>↑ 點按三角形可以展開哦～</mark>
+
+---
 
 ### 隨機聽歌
 隨機聽 KKBOX 排行榜上的歌曲。
@@ -37,6 +41,8 @@
 <img src="demo/2.gif" width="300">
 </details>
 
+---
+
 ### 做運動
 跟著教學影片做運動。
 ```
@@ -47,6 +53,8 @@
 <br>
 <img src="demo/3.gif" width="300">
 </details>
+
+---
 
 ### 查證訊息
 用可信度高的查證管道明辨是非。
@@ -59,6 +67,8 @@
 <img src="demo/4.gif" width="300">
 </details>
 
+---
+
 ### 玩遊戲
 隨機玩小品遊戲。
 ```
@@ -70,6 +80,8 @@
 <img src="demo/5.gif" width="300">
 </details>
 
+---
+
 ### 查天氣
 直接在 LINE 裡面 google 天氣。
 ```
@@ -80,6 +92,8 @@
 <br>
 <img src="demo/6.gif" width="300">
 </details>
+
+---
 
 ### 請求新功能
 請求開發者做想要的新功能。
@@ -95,6 +109,8 @@
 <img src="demo/7.png">
 </details>
 
+---
+
 ### 功能一覽
 看有哪些功能。
 ```
@@ -105,6 +121,8 @@
 <br>
 <img src="demo/8.gif" width="300">
 </details>
+
+---
 
 ## Reference
 
