@@ -1,5 +1,6 @@
 import os
 import json
+import urllib.parse
 
 from linebot import LineBotApi
 from linebot.models import FlexSendMessage
@@ -13,7 +14,8 @@ line_bot_api = LineBotApi(access_token)
 
 def send_weather(reply_token, query):
 
-    query = query.replace(' ', '+')
+    # query = query.replace(' ', '+')
+    query = urllib.parse.quote(query)
     uri = f'https://www.google.com/search?q={query}'
     button = f"""
           {{
